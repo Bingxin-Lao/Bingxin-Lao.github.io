@@ -5,7 +5,7 @@ date: 2016-04-13
 layout: default
 ---
 
-A skeleton-site for a personal academic website, written in Jekyll for hosting with GitHub Pages.
+Welcome to Bingxin Lao's homepage! I am a theoretical physicist, expecially interested in high energy theory. 
 
 ## Features
 - Minimal, clean design
