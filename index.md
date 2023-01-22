@@ -5,7 +5,10 @@ date: 2016-04-13
 layout: default
 ---
 
-Welcome to Bingxin Lao's homepage! I am a theoretical physicist, expecially interested in high energy theory. My whole academic career will be recorded in this homepage. 
+Welcome to Bingxin Lao (in Chinese: 劳炳新)'s homepage! 
+
+This is the place that I record my academic career. If you find anything which is helpful for you, it's my pleasure.
+
 
 ## Features
 - Minimal, clean design
