@@ -7,9 +7,12 @@ layout: default
 
 Welcome to Bingxin Lao (in Chinese: 劳炳新)'s homepage! 
 
-This is the place that I record my academic career. If you find anything which is helpful for you, it's my pleasure.
+This is the place that I record my academic career. It's my pleasure if you find anything which is helpful to you.
+
+Currently I am a master student (theorectial physics track) at École normale supérieure - PSL (Ulm) and looking for the PhD position for 2024 Fall. 
 
 
+<!-- %%%
 ## Features
 - Minimal, clean design
 	- CV-specific print-style
@@ -134,3 +137,4 @@ Note that these links must be encapsulated in quotes in the lists in `_config.ym
 
 ### Development
 Written in [Jekyll](http://jekyllrb.com/), structured with [Bootstrap v4](http://getbootstrap.com/), styled with [plain CSS](http://www.css3-tutorial.net/introduction/what-is-css/). The Jekyll-output (in the `_site`-folder when generated) can be hosted anywhere (static files). For further development, see [Jekyll Tips](http://jekyll.tips/) and [GitHub Pages Setup Guide](http://jmcglone.com/guides/github-pages/).
+%%% -->
