@@ -1,6 +1,10 @@
 ---
 title: CV
 cv_title: Bing-Xin Lao
+summary: "Ole Vik's Resume"
+cv_title: Ole Vik
+cv_subtitle: Political Economist
+location: Bergen
 education:
   - years: 2021-present
     name: Master in Physics
