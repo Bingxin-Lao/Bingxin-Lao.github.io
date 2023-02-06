@@ -1,8 +1,6 @@
 ---
 title: CV
 cv_title: Bing-Xin Lao
-
-
 Education:
   - years: 2021-present
     name: Master in Physics
