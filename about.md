@@ -5,4 +5,8 @@ date: 2023-02-06
 layout: default
 ---
 
-I was born and grown in the southern china. 
+## Biograhy
+I was born and grown in the Guangdong, a province in southern china. 
+
+## Contact
+Email: bxlaophysics@gmail.com
