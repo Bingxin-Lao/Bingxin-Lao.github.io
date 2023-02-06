@@ -1,7 +1,7 @@
 ---
 title: CV
 cv_title: Bing-Xin Lao
-Education:
+education:
   - years: 2021-present
     name: Master in Physics
     location:  École normale supérieure - PSL (Ulm) 
