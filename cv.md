@@ -11,7 +11,7 @@ Education:
   - years: 2017-2021
     name: Bachelor degree of Sciences, Physics
     location: University of Science and Technology of China
-    description: 
+    description: Outstanding graduate, Yanji Ci scholarship (50000 CNY)
 date: 2023-02-06
 layout: cv
 ---
