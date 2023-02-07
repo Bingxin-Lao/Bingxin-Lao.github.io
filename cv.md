@@ -12,7 +12,7 @@ education:
   - years: 2017-2021
     name: Bachelor degree of Sciences, Physics
     location: University of Science and Technology of China
-    description: Outstanding graduate, Yanji Ci scholarship (50000 CNY)
+    description: Outstanding graduate, Ji-Ci Yan's scholarship (50000 CNY)
 date: 2023-02-06
 layout: cv
 ---
