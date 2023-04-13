@@ -2,8 +2,8 @@
 title: CV
 summary: "Bingxin Lao's Resume"
 cv_title: Bing-Xin Lao
-<!-- cv_subtitle: Political Economist -->
-<!-- location: Bergen -->
+<!-- cv_subtitle: Theorectial Physicist -->
+<!-- location: Paris -->
 education:
   - years: 2021-present
     name: Master in Physics
