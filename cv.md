@@ -13,6 +13,8 @@ education:
     name: Bachelor degree of Sciences, Physics
     location: University of Science and Technology of China
     description: Outstanding graduate, Ji-Ci Yan's scholarship (50000 CNY)
+experience:
+-years: 2020-2021
 date: 2023-02-06
 layout: cv
 ---
