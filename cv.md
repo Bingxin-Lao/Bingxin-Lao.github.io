@@ -14,8 +14,7 @@ education:
     location: University of Science and Technology of China
     description: Outstanding graduate, Ji-Ci Yan's scholarship (50000 CNY)
 positions: (listed in the time ordering)
-  - years: 2019.7-2019.9
-  - names: Summer research
+  - years: 2019.7 - 2019.9
   - location: Massachusetts Institute of Technology, Boston, USA
   - description: Working with Prof. Mark Volgesberger and Dr. Aaron Smith
 -years: 2020-2021
