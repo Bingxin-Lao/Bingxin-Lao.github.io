@@ -13,7 +13,7 @@ education:
     name: Bachelor degree of Sciences, Physics
     location: University of Science and Technology of China
     description: Outstanding graduate, Ji-Ci Yan's scholarship (50000 CNY)
-positions: (listed in the time ordering)
+positions: 
   - years: 2019.7 - 2019.9
   - location: Massachusetts Institute of Technology, Boston, USA
   - description: Working with Prof. Mark Volgesberger and Dr. Aaron Smith
