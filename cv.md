@@ -18,6 +18,9 @@ Research_Experience:
     name: Summer research in theoretical astrophysics
     location: Massachusetts Institute of Technology, Boston, USA
     description: Working with Prof. Mark Vogelsberger and Dr. Aaron Smith. Research in transfer process of Lyman-alpha radiation.
+  - years: 2020.3 - 2021.7
+    name: Undergraduate research in condensed matter theory and high energy theory
+    supervisor: 
 -years: 2020-2021
 date: 2023-02-06
 layout: cv
