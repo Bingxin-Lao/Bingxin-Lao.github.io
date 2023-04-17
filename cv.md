@@ -15,8 +15,9 @@ education:
     description: Outstanding graduate, Ji-Ci Yan's scholarship (50000 CNY)
 positions: 
   - years: 2019.7 - 2019.9
-  - location: Massachusetts Institute of Technology, Boston, USA
-  - description: Working with Prof. Mark Volgesberger and Dr. Aaron Smith
+    name: Summer research in theoretical astrophysics
+    location: Massachusetts Institute of Technology, Boston, USA
+    description: Working with Prof. Mark Vogelsberger and Dr. Aaron Smith
 -years: 2020-2021
 date: 2023-02-06
 layout: cv
