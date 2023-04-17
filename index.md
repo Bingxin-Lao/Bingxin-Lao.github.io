@@ -10,7 +10,7 @@ Welcome to Bingxin Lao (in Chinese: 劳炳新)'s homepage!
 This is the place that I record my academic career. It's my pleasure if you find anything which is helpful to you. 
 
 ## Recent news
-Currently I am a master student (theoretical physics track) at École normale supérieure - PSL (Ulm). If you are interested in the stories behind the papers and my student life, welcome to subscribe my Wechat public account: 巴黎高师的小橘 (in Chinese!). 
+Currently I am a master student (theoretical physics track) at École Normale Supérieure - PSL (Ulm). If you are interested in the stories behind the papers and my student life, welcome to subscribe my Wechat public account: 巴黎高师的小橘 (in Chinese!). 
 
 ![sunflower](assets/images/Van_Gogh_Twelve_Sunflowers.jpg "sun flower")
 

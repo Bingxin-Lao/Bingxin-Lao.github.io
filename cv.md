@@ -15,12 +15,17 @@ education:
     description: Outstanding graduate, Ji-Ci Yan's scholarship
 Research_Experience: 
   - years: 2019.7 - 2019.9
-    name: Summer research in theoretical astrophysics
+    name: Summer research
     location: Massachusetts Institute of Technology, Boston, USA
     description: Working with Prof. Mark Vogelsberger and Dr. Aaron Smith. Research in transfer process of Lyman-alpha radiation.
   - years: 2020.3 - 2021.7
-    name: Undergraduate research in condensed matter theory and high energy theory
-    supervisor: 
+    name: Undergraduate research
+    location: Fudan University, Shanghai, China
+    description: Working with Prof. Ling-Yan Hung (now a professor in Tsinghua University). Research in condensed matter theory and high energy theory.
+  - years: 2022.2 - present
+    name: M1 internship
+    location: Institut de Physique Théorique, Paris, France
+    description: Working with Chercheur Ruben Minasian. Research in string theory, supergravity and anomaly.
 -years: 2020-2021
 date: 2023-02-06
 layout: cv
