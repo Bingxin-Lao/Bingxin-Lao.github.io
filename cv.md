@@ -33,7 +33,7 @@ Research_Experience:
   - years: 2023.1 - present
     name: M2 internship 
     location: Institut des Hautes Études Scientifiques, Paris, France
-    description: Working with Permanent professor Slava Rychokov. Research in conformal field theory and conformal bootstrap.
+    description: Working with Permanent professor Slava Rychkov. Research in conformal field theory and conformal bootstrap.
 -years: 2017-2023
 date: 2023-02-06
 layout: cv
