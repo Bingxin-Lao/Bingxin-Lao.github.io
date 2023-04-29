@@ -8,7 +8,24 @@ layout: default
 Here I list all the publications (including peer-reviewed papers and preprints) with short introductions to them. 
 
 ## Published paper
- ```{r publications} bibliography_entries("publications.bib", "Publications") ``` 
+library(bib2df)
+library(stevemisc)
+library(stringi)
 
-## Published papers
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+# load a bib file to data frame
+bib_df <- bib2df(file="purblications.bib")
+
+# clean entries
+bib_df$TITLE <- stri_replace_all_regex(bib_df$TITLE, "[\\{\\}]", "")
+bib_df$JOURNAL <- stri_replace_all_regex(bib_df$JOURNAL, "[\\{\\}]", "")
+bib_df$BOOKTITLE <- stri_replace_all_regex(bib_df$BOOKTITLE, "[\\{\\}]", "")
+
+# convert a single row back to .bib entry
+bib_entry <- paste0(capture.output(df2bib(bib_df[1,])), collapse="")
+bib_entry
+
+# print out the citation
+stevemisc::print_refs(bib_entry,
+                      csl = "apa.csl",
+                      spit_out = TRUE,
+                      delete_after = FALSE)
