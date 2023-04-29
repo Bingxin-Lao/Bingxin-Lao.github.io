@@ -1,4 +1,4 @@
-name: Researcher
+name: Bingxin Lao
 description: Personal website
 menu:
  - page: About
@@ -6,10 +6,10 @@ menu:
  - page: Papers
    url: /papers
    links:
-    - title: Working papers
-      url: "#working-papers"
     - title: Published papers
       url: "#published-papers"
+    - title: Preprints
+      url: "#preprints"
  - page: Research Projects
    url: /research
    links:
@@ -24,14 +24,10 @@ menu:
  - page: Curriculum Vitae
    url: /cv
    links:
-    - title: Experience
-      url: "#experience"
     - title: Education
       url: "#education"
-    - title: Positions
-      url: "#positions"
-    - title: Miscellaneous
-      url: "#miscellaneous"
+    - title: Research Experience
+      url: "#research_experience"
  - page: Teaching
    url: /teaching
  - page: Media
@@ -39,14 +35,8 @@ menu:
  - page: Accolades
    url: /accolades
 menu_external:
- - title: OleVik.me
-   url: "http://olevik.me/"
- - title: Research Gate
-   url: "https://www.researchgate.net/profile/Ole_Vik"
- - title: LinkedIn
-   url: "https://no.linkedin.com/in/olehhvik"
- - title: Twitter
-   url: "https://twitter.com/olehhv"
+ - title: Google scholar
+   url: "https://scholar.google.com/citations?hl=en&user=7bOjt-AAAAAJ"
 mathjax: false
 markdown: kramdown
 encoding: utf-8
