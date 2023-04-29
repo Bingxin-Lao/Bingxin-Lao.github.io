@@ -29,7 +29,7 @@ Research_Experience:
   - years: 2022.2 - present
     name: M1 internship
     location: Institut de Physique Théorique, Paris, France
-    description: Working with Chercheur Ruben Minasian. Research in string theory, supergravity and anomaly. See Publication[3]
+    description: Working with Chercheur Ruben Minasian. Research in string theory, supergravity and anomaly. See Publication [3].
   - years: 2023.1 - present
     name: M2 internship 
     location: Institut des Hautes Études Scientifiques, Paris, France
