@@ -26,6 +26,10 @@ Research_Experience:
     name: M1 internship
     location: Institut de Physique Théorique, Paris, France
     description: Working with Chercheur Ruben Minasian. Research in string theory, supergravity and anomaly.
+  - years: 2023.1 - present
+  - name: M2 internship 
+  - location: Institut des Hautes Études Scientifiques, Paris, France
+  - description: Working with Permanent professor Slava Rychokov. Research in conformal field theory and conformal bootstrap.
 -years: 2020-2021
 date: 2023-02-06
 layout: cv
