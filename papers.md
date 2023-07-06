@@ -5,9 +5,6 @@ date: 2023-07-06
 layout: default
 ---
 
-output: html_document
-bibliography: publications.bib  
-
 Here I list all my publications (including peer-reviewed papers and preprints) with short introductions to them. 
 
 ## Published paper

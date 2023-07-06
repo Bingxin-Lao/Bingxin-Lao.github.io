@@ -28,12 +28,6 @@ menu:
       url: "#education"
     - title: Research Experience
       url: "#Research_Experience"
- - page: Teaching
-   url: /teaching
- - page: Media
-   url: /media
- - page: Accolades
-   url: /accolades
 menu_external:
  - title: Google scholar
    url: "https://scholar.google.com/citations?hl=en&user=7bOjt-AAAAAJ"
@@ -42,3 +36,5 @@ markdown: kramdown
 encoding: utf-8
 baseurl: Bingxin-Lao.github.io
 locale: en_GB
+output: html_document
+bibliography: publications.bib  
