@@ -1,22 +1,22 @@
 name: Bingxin Lao
 description: Personal website
 menu:
- - page: About
-   url: /about
-  - page: Curriculum Vitae
-   url: /cv
-   links:
-    - title: Education
-      url: "#education"
-    - title: Research Experience
-      url: "#Research_Experience"
- - page: Papers
-   url: /papers
-   links:
-    - title: Published papers
-      url: "#published-papers"
-    - title: Preprints
-      url: "#preprints"
+- page: About
+  url: /about
+- page: Curriculum Vitae
+  url: /cv
+  links:
+  - title: Education
+    url: "#education"
+  - title: Research Experience
+    url: "#Research_Experience"
+- page: Papers
+  url: /papers
+  links:
+  - title: Published papers
+    url: "#published-papers"
+  - title: Preprints
+    url: "#preprints"
  - page: Research Projects
    url: /research
    links:
