@@ -5,8 +5,8 @@ date: 2023-02-06
 layout: default
 ---
 
-## Biograhy
-I was born and grown in the Guangdong, a province in southern china. 
+## Biography
+I was born and raised in Guangdong, a province in the southern part of China known for its culinary excellence. 
 
 ## Contact
 Email: bxlaophysics@gmail.com
