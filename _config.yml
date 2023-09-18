@@ -18,7 +18,7 @@ menu:
   - title: Preprints
     url: "#preprints"
 - page: Lecture Notes
-  url: /lecture_note
+  url: /lecture_notes
   links:
   - title: "Project One"
     url: "#project-one"
