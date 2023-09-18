@@ -17,20 +17,20 @@ menu:
     url: "#published-papers"
   - title: Preprints
     url: "#preprints"
- - page: Research Projects
-   url: /research
-   links:
-    - title: "Project One"
-      url: "#project-one"
-    - title: "Project Two"
-      url: "#project-two"
-    - title: "Project Three"
-      url: "#project-three"
-    - title: "Project Four"
-      url: "#project-four"
+- page: Lecture Notes
+  url: /lecture_note
+  links:
+  - title: "Project One"
+    url: "#project-one"
+  - title: "Project Two"
+    url: "#project-two"
+  - title: "Project Three"
+    url: "#project-three"
+  - title: "Project Four"
+    url: "#project-four"
 menu_external:
- - title: Google scholar
-   url: "https://scholar.google.com/citations?hl=en&user=7bOjt-AAAAAJ"
+- title: Google scholar
+  url: "https://scholar.google.com/citations?hl=en&user=7bOjt-AAAAAJ"
 mathjax: false
 markdown: kramdown
 encoding: utf-8
