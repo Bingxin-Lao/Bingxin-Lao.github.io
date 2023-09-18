@@ -1,11 +1,11 @@
 ---
-title: "Research"
+title: "Lecture note"
 summary: "About this page."
 date: 2016-04-13
 layout: default
 ---
 
-"Research" introductory paragraph.
+Here are all the notes I wrote in theoretical physics and mathematics. 
 
 ## Quantum Field Theory
 This is the note that 
