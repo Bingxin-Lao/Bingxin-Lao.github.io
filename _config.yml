@@ -31,6 +31,10 @@ menu:
 menu_external:
 - title: Google scholar
   url: "https://scholar.google.com/citations?hl=en&user=7bOjt-AAAAAJ"
+- title: INSPIRE
+  url: "https://inspirehep.net/authors/2057896?ui-citation-summary=true"
+- title: ORCID
+  url:"https://orcid.org/0000-0002-6320-185X"
 mathjax: false
 markdown: kramdown
 encoding: utf-8
