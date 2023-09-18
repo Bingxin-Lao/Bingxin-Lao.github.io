@@ -13,4 +13,3 @@ Here I list all my publications (including peer-reviewed papers and preprints) w
 Abstract: This paper studies Lyman-alpha radiative transfer process with given density profiles, generalizing the known solutions to non uniform media. Develop gridless Monte-Carlo radiative transfer (GMCRT) method to verify the analytic solutions. 
 
 [2] @R-base
-
