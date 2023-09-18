@@ -3,6 +3,13 @@ description: Personal website
 menu:
  - page: About
    url: /about
+  - page: Curriculum Vitae
+   url: /cv
+   links:
+    - title: Education
+      url: "#education"
+    - title: Research Experience
+      url: "#Research_Experience"
  - page: Papers
    url: /papers
    links:
@@ -21,13 +28,6 @@ menu:
       url: "#project-three"
     - title: "Project Four"
       url: "#project-four"
- - page: Curriculum Vitae
-   url: /cv
-   links:
-    - title: Education
-      url: "#education"
-    - title: Research Experience
-      url: "#Research_Experience"
 menu_external:
  - title: Google scholar
    url: "https://scholar.google.com/citations?hl=en&user=7bOjt-AAAAAJ"
