@@ -1,7 +1,7 @@
 ---
 title: "Papers"
 summary: "About this page."
-date: {{ site.time | date: "%Y-%m-%d" }}
+date: 2023-09-19
 layout: default
 ---
 
