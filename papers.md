@@ -28,7 +28,7 @@ Here I list all my publications (including peer-reviewed papers and preprints) w
 
 ## Preprint
 Note that in hepth field authors are listed by alphabet. 
-***
+---
 <details>
   <summary style="background-color: #f0f0f0; padding: 10px;"><span style="color: blue;">[P1]</span> <b>Bing-Xin Lao</b>, Ruben Minasian, Consistency of eight-dimensional supergravities: Anomalies, Lattices and Counterterms, arXiv:2306.07766, https://arxiv.org/abs/2306.07766</summary>
   
