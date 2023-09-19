@@ -2,13 +2,6 @@
 title: CV
 summary: "Bingxin Lao's Resume"
 cv_title: Bing-Xin Lao
-cv_subtitle: theoretical physics
-location: Paris
-phone:
-contact_name: 
-contact_link: bingxin-lao.github.io
-linkedin_name:
-linkedin_link:
 education:
   - years: 2021-present
     name: Master in Physics
@@ -31,7 +24,7 @@ Research_Experience:
     name: Summer Research
     location: Remote. 
     description: Working with Prof. Yasunori Nomura, University of California, Berkeley. Research in high energy theory.
-    - years: 2020.3 - 2021.7
+  - years: 2020.3 - 2021.7
     name: Undergraduate research and Bachelor thesis
     location: Fudan University, Shanghai, China
     description: Working with Prof. Ling-Yan Hung (now a professor in Tsinghua University). Research in condensed matter theory and high energy theory. See Publication [2]
