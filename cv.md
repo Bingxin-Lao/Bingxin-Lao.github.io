@@ -2,6 +2,7 @@
 title: CV
 summary: "Bingxin Lao's Resume"
 cv_title: Bing-Xin Lao
+cv_subtitle: theoretical physics
 personal_website: test
 location: Paris
 education:
