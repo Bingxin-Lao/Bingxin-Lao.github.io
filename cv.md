@@ -2,6 +2,7 @@
 title: CV
 summary: "Bingxin Lao's Resume"
 cv_title: Bing-Xin Lao
+personal_website: test
 education:
   - years: 2021-present
     name: Master in Physics

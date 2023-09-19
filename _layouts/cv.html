@@ -27,6 +27,7 @@
 							</div>
 							<main class="content col-md-9" role="main">
 								{% include mobile_header.html %}
+								<!--start to formalize the main text-->
 								<article class="container-fluid">
 									<div class="row">
 										<div class="container">
@@ -47,17 +48,7 @@
 												<div class="col-md-4 hidden-sm-down">
 													<ul class="nav nav-pills nav-stacked">
 														<li class="nav-item text-sm-right">{{ page.location }}</li>
-														<li class="nav-item text-sm-right">{{ page.phone }}</li>
-														<li class="nav-item text-sm-right">
-															<a href="{{ page.contact_link }}">
-																{{ page.contact_name }}
-															</a>
-														</li>
-														<li class="nav-item text-sm-right">
-															<a href="{{ page.linkedin_link }}">
-																{{ page.linkedin_name }}
-															</a>
-														</li>
+														<li class="nav-item text-sm-right">{{ page.personal_website }}</li>
 													</ul>
 												</div>
 											</div>
