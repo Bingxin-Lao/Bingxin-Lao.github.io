@@ -30,7 +30,15 @@ Here I list all my publications (including peer-reviewed papers and preprints) w
 Note that in hepth field authors are listed by alphabet. 
 ***
 <details>
-  <summary style="background-color: #f0f0f0; padding: 10px;"><span style="color: blue;">[P1]</span> **Bing-Xin Lao**, Ruben Minasian Consistency of eight-dimensional supergravities: Anomalies, Lattices and Counterterms, arXiv:2306.07766, https://arxiv.org/abs/2306.07766</summary>
+  <summary style="background-color: #f0f0f0; padding: 10px;"><span style="color: blue;">[P1]</span> <p>Bing-Xin Lao</p>, Ruben Minasian, Consistency of eight-dimensional supergravities: Anomalies, Lattices and Counterterms, arXiv:2306.07766, https://arxiv.org/abs/2306.07766</summary>
+  
+  <div style="background-color: #f0f0f0; padding: 10px;">
+    This paper studies Lyman-alpha radiative transfer process with given density profiles, generalizing the known solutions to non uniform media. Develop gridless Monte-Carlo radiative transfer (GMCRT) method to verify the analytic solutions.
+  </div>
+</details>
+***
+<details>
+  <summary style="background-color: #f0f0f0; padding: 10px;"><span style="color: blue;">[P1]</span> <p>Bing-Xin Lao</p>, Slava Rychkov, 3D Ising CFT and Exact Diagonalization on Icosahedron, arXiv:2307.02540, https://arxiv.org/abs/2307.02540</summary>
   
   <div style="background-color: #f0f0f0; padding: 10px;">
     This paper studies Lyman-alpha radiative transfer process with given density profiles, generalizing the known solutions to non uniform media. Develop gridless Monte-Carlo radiative transfer (GMCRT) method to verify the analytic solutions.
