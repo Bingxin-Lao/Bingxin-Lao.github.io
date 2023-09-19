@@ -2,8 +2,7 @@
 title: CV
 summary: "Bingxin Lao's Resume"
 cv_title: Bing-Xin Lao
-<!-- cv_subtitle: Theoretical Physicist -->
-<!-- location: Paris -->
+location: Paris
 education:
   - years: 2021-present
     name: Master in Physics
