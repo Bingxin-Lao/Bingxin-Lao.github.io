@@ -2,7 +2,6 @@
 title: CV
 summary: "Bingxin Lao's Resume"
 cv_title: Bing-Xin Lao
-personal_website: [bingxin-lao.github.io](https://bingxin-lao.github.io/)
 location: 45 rue d'Ulm, 75005, Paris
 email: bxlaophysics@gmail.com
 education:
