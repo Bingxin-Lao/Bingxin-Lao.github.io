@@ -3,7 +3,8 @@ title: CV
 summary: "Bingxin Lao's Resume"
 cv_title: Bing-Xin Lao
 personal_website: test
-location: Paris
+location: 45 rue d'Ulm, 75005, Paris
+email: bxlaophysics@gmail.com
 education:
   - years: 2021-present
     name: Master in Physics
