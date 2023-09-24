@@ -275,6 +275,10 @@ pre {
 	.centered-text{
 		text-align: center; /*center the text*/
 	}
+	.title2 {
+		font-size: 24px;
+		text-align: center;
+	}
 	.cv .title {margin: 0;}
 	.text-sm-right {text-align: right!important;}
 	p {margin-bottom: 1.5em;}
