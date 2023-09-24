@@ -65,7 +65,9 @@ body blockquote p {font-size: 1.4em;}
 	display: -webkit-flex;
 	display: -ms-flexbox;
 	display: flex;
+	justify-content: space-between;
 	flex-wrap: wrap;
+	margin-bottom: 20px;
 }
 .row > [class*='col-'] {
 	display: flex;
