@@ -279,6 +279,10 @@ pre {
 		font-size: 24px;
 		text-align: center;
 	}
+	.info {
+		font-size: 16px;
+		text-align: center;
+	  }
 	.cv .title {margin: 0;}
 	.text-sm-right {text-align: right!important;}
 	p {margin-bottom: 1.5em;}
