@@ -272,6 +272,9 @@ pre {
 		max-width: 100%;
 		padding-top: 0;
 	}
+	.centered-text{
+		text-align: center; /*center the text*/
+	}
 	.cv .title {margin: 0;}
 	.text-sm-right {text-align: right!important;}
 	p {margin-bottom: 1.5em;}
