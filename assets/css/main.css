@@ -279,11 +279,11 @@ pre {
 	}
 	.title2 {
 		font-size: 24px;
-		text-align: center;
+		text-align: left;
 	}
 	.info {
 		font-size: 16px;
-		text-align: center;
+		text-align: left;
 	  }
 	.cv .title {margin: 0;}
 	.text-sm-right {text-align: right!important;}
