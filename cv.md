@@ -1,7 +1,7 @@
 ---
 title: CV
 summary: "Bingxin Lao's Resume"
-cv_title: <span style="font-size:24px font-weight:bold padding-left:40px;">Bing-Xin Lao</span>
+cv_title: <span style="font-size:24px font-weight:bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bing-Xin Lao</span>
 location: 45 rue d'Ulm, 75005, Paris
 email: bxlaophysics@gmail.com
 education:
