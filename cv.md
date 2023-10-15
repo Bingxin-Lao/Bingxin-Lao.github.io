@@ -8,7 +8,7 @@ education:
   - years: 2021-present
     name: Master in Physics
     location:  École Normale Supérieure - PSL (Ulm), Paris, France
-    description: Admitted through 2021 international selection (Étudiant Normalien)
+    description: Admitted through 2021 [international selection](https://www.ens.psl.eu/en/academics/admissions/international-selection) (Étudiant Normalien)
   - years: 2017-2021
     name: Bachelor degree of Sciences, Physics
     location: University of Science and Technology of China, Hefei, China
