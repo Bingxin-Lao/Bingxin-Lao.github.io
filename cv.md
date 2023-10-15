@@ -1,7 +1,7 @@
 ---
 title: CV
 summary: "Bingxin Lao's Resume"
-cv_title: <pre>           Bing-Xin Lao</pre>
+cv_title: <br            />Bing-Xin Lao
 location: 45 rue d'Ulm, 75005, Paris
 email: bxlaophysics@gmail.com
 education:
@@ -38,3 +38,4 @@ Research_Experience:
 date: 2023-02-06
 layout: cv
 ---
+
