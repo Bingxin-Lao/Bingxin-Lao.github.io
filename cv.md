@@ -8,7 +8,7 @@ education:
   - years: 2021-present
     name: Master in Physics
     location:  École Normale Supérieure - PSL (Ulm), Paris, France
-    description: Admitted through 2021 [international selection](https://www.ens.psl.eu/en/academics/admissions/international-selection) (Étudiant Normalien)
+    description: Admitted through 2021 international selection (Étudiant Normalien)
   - years: 2017-2021
     name: Bachelor degree of Sciences, Physics
     location: University of Science and Technology of China, Hefei, China
@@ -18,7 +18,7 @@ Research_Experience:
     name: M1 internship
     location: Institut de Physique Théorique, Paris, France
     description: Working with Chercheur Ruben Minasian. Research in string theory, supergravity and anomaly. See Publication [3].
-  - years: 2023.1 - present
+  - years: 2023.01 - 2023.06
     name: M2 internship 
     location: Institut des Hautes Études Scientifiques, Paris, France
     description: Working with Permanent professor Slava Rychkov. Research in conformal field theory and conformal bootstrap. See Publication [4].
