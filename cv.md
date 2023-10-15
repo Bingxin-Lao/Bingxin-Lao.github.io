@@ -8,28 +8,28 @@ education:
   - years: 2021-present
     name: Master in Physics
     location:  École Normale Supérieure - PSL (Ulm), Paris, France
-    description: Admitted through 2021 <a href="https://www.ens.psl.eu/en/academics/admissions/international-selection">international selection</a> (Normalien, 1000 eruos/month grant for 3 years)
+    description: Admitted through 2021 <a href="https://www.ens.psl.eu/en/academics/admissions/international-selection">International Selection</a> (Normalien, 1000 eruos/month grant for 3 years)
   - years: 2017-2021
     name: Bachelor degree of Sciences, Physics
     location: University of Science and Technology of China, Hefei, China
     description: Outstanding graduate, Ji-Ci Yan's scholarship
 Research_Experience: 
-  - years: 2022.2 - present
-    name: M1 internship
-    location: Institut de Physique Théorique, Paris, France
-    description: Working with Chercheur Ruben Minasian. Research in string theory, supergravity and anomaly. See Publication [3].
   - years: 2023.01 - 2023.06
-    name: M2 internship 
+    name: M2 thesis 
     location: Institut des Hautes Études Scientifiques, Paris, France
     description: Working with Permanent professor Slava Rychkov. Research in conformal field theory and conformal bootstrap. See Publication [4].
-  - years: 2020.6 - 2020.10
-    name: Summer Research
-    location: Remote. 
-    description: Working with Prof. Yasunori Nomura, University of California, Berkeley. Research in high energy theory.
-  - years: 2020.3 - 2021.7
+  - years: 2022.02 - 2022.08
+    name: M1 thesis
+    location: Institut de Physique Théorique, Paris, France
+    description: Working with Chercheur Ruben Minasian. Research in string theory, supergravity and anomaly. See Publication [3].
+  - years: 2020.03 - 2021.07
     name: Undergraduate research and Bachelor thesis
     location: Fudan University, Shanghai, China
     description: Working with Prof. Ling-Yan Hung (now a professor in Tsinghua University). Research in condensed matter theory and high energy theory. See Publication [2]
+  - years: 2020.06 - 2020.10
+    name: Summer Research
+    location: Remote. 
+    description: Working with Prof. Yasunori Nomura, University of California, Berkeley. Research in high energy theory.
   - years: 2019.7 - 2019.9
     name: Summer research
     location: Massachusetts Institute of Technology, Boston, USA
