@@ -13,7 +13,7 @@ Here I list all my publications (including peer-reviewed papers and preprints) w
   <summary style="background-color: #f0f0f0; padding: 10px;"><span style="color: blue;">[2]</span> Chao-Yi Chen, <b>Bing-Xin Lao</b>, Xin-Yang Yu, and Ling-Yan Hung, Galois conjugates of string-net model, Phys. Rev. D 105, 065009, <a href="https://doi.org/10.1103/PhysRevD.105.065009">https://doi.org/10.1103/PhysRevD.105.065009</a> (co-first author)</summary>
   
   <div style="background-color: #f0f0f0; padding: 10px;">
-    This paper studies Lyman-alpha radiative transfer process with given density profiles, generalizing the known solutions (for uniform media) to media of power-law density profile. We also develop gridless Monte-Carlo radiative transfer (GMCRT) method to demonstrate the analytic solutions. Thanks to Aaron
+    This paper studies Lyman-alpha radiative transfer process with given density profiles, generalizing the known solutions (for uniform media) to media of power-law density profile. We also develop gridless Monte-Carlo radiative transfer (GMCRT) method to demonstrate the analytic solutions. Thanks to Aaron! I spent a wonderful summer at MIT in 2019.
   </div>
 </details>
 ***

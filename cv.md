@@ -33,10 +33,10 @@ Research_Experience:
   - years: 2019.7 - 2019.9
     name: Summer research
     location: Massachusetts Institute of Technology, Boston, USA
-    description: <div>
+    description: <span>
     <h2>Test</h2>
     Working with Prof. Mark Vogelsberger and Dr. Aaron Smith. Research in transfer process of Lyman-alpha radiation. See Publication [1]. 
-    </div>    
+    </span>    
 -years: 2017-2023
 date: 2023-02-06
 layout: cv
