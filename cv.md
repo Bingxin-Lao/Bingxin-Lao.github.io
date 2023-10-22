@@ -17,14 +17,17 @@ Research_Experience:
   - years: 2023.01 - 2023.06
     name: M2 thesis 
     location: Institut des Hautes Études Scientifiques, Paris, France
+    supervisor: Ling-Yan hung
     description: Working with Permanent professor Slava Rychkov. Research in conformal field theory and conformal bootstrap. See Publication [4].
   - years: 2022.02 - 2022.08
     name: M1 thesis
     location: Institut de Physique Théorique, Paris, France
+    supervisor: Ling-Yan hung
     description: Working with Chercheur Ruben Minasian. Research in string theory, supergravity and anomaly. See Publication [3].
   - years: 2020.03 - 2021.07
     name: Undergraduate research and Bachelor thesis
     location: Fudan University, Shanghai, China
+    supervisor: Ling-Yan hung
     description: Working with Prof. Ling-Yan Hung (now a professor in Tsinghua University). Research in condensed matter theory and high energy theory. See Publication [2]
   - years: 2020.06 - 2020.10
     name: Summer Research
@@ -33,7 +36,8 @@ Research_Experience:
   - years: 2019.7 - 2019.9
     name: Summer research
     location: Massachusetts Institute of Technology, Boston, USA
-    description: <span><h2>Test</h2>Working with Prof. Mark Vogelsberger and Dr. Aaron Smith. Research in transfer process of Lyman-alpha radiation. See Publication [1].</span>    
+    supervisor: Ling-Yan hung
+    description: <span class="text-justify">Test Working with Prof. Mark Vogelsberger and Dr. Aaron Smith. Research in transfer process of Lyman-alpha radiation. See Publication [1].</span>    
 -years: 2017-2023
 date: 2023-02-06
 layout: cv
