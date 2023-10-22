@@ -14,7 +14,7 @@ Here I list all my publications (including peer-reviewed papers and preprints) w
   
   <div style="background-color: #f0f0f0; padding: 10px;">
     This paper studies Lyman-alpha radiative transfer process with given density profiles, generalizing the known solutions (for uniform media) to media of power-law density profile. We also develop gridless Monte-Carlo radiative transfer (GMCRT) method to demonstrate the analytic solutions. Thanks to Aaron! I spent a wonderful summer at MIT in 2019. This is the first paper of my academic career! 
-  </div>l
+  </div>
 </details>
 ***
 <details>
@@ -28,7 +28,7 @@ Here I list all my publications (including peer-reviewed papers and preprints) w
 
 
 ## Preprint
-Note that in hepth field authors are listed by alphabet. 
+<em>Note that in hepth field authors are listed by alphabet</em>. 
 <hr>
 <details>
   <summary style="background-color: #f0f0f0; padding: 10px;"><span style="color: blue;">[P1]</span> <b>Bing-Xin Lao</b>, Ruben Minasian, Consistency of eight-dimensional supergravities: Anomalies, Lattices and Counterterms, <a href="https://arxiv.org/abs/2306.07766">arXiv:2306.07766</a></summary>
