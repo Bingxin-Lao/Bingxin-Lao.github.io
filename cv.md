@@ -5,11 +5,11 @@ cv_title: <span style="font-size:24px; font-weight:bold;">&nbsp;&nbsp;&nbsp;&nbs
 location: 45 rue d'Ulm, 75005, Paris
 email: bxlaophysics@gmail.com
 education:
-  - years: 2021-present
+  - years: 2021 - present
     name: Master in Physics
     location:  École Normale Supérieure - PSL (Ulm), Paris, France
     description: Admitted through 2021 <a href="https://www.ens.psl.eu/en/academics/admissions/international-selection">International Selection</a> (Normalien, 1000 euros/month grant for 3 years)
-  - years: 2017-2021
+  - years: 2017 - 2021
     name: Bachelor degree of Sciences, Physics
     location: University of Science and Technology of China, Hefei, China
     description: Outstanding graduate, Ji-Ci Yan's scholarship
