@@ -1,12 +1,10 @@
 ---
-title: "Lecture note"
+title: "Lecture Notes"
 summary: "About this page."
 date: 2016-04-13
 layout: default
 ---
-## Lecture Notes
-Here are all the notes I wrote in theoretical physics and mathematics. 
-
+## Here are all the notes I wrote in theoretical physics and mathematics. 
 ***
 <details>
   <summary style="background-color: #f0f0f0; padding: 10px;"><span style="color: blue;">[1]</span><a href="https://bingxin-lao.github.io/file/note/Lecture_notes_on_Quantum_Field_Theory.pdf"><b>Quantum Field Theory</b></a></summary>
